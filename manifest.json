@@ -1,0 +1,6 @@
+{
+	"name": "Debug Mode for Odoo",
+	"description": "Enters in debug mode",
+	"version": "1.0",
+	"manifest_version": 3,
+}
