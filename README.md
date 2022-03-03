@@ -1,0 +1,1 @@
+# Debug Mode Extension for Odoo
